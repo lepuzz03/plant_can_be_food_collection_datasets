@@ -1,4 +1,4 @@
-# Carrot
+# Spinach
 
 ![Spinach](https://raw.githubusercontent.com/lepuzz03/plant_can_be_food_collection_datasets/master/spinach/datasets/spinach_ 1.jpg)
 
