@@ -1,6 +1,6 @@
 # Elderberry
 
-![Elderberry](https://raw.githubusercontent.com/aghussb/plant_can_be_food_collection_datasets/master/spinach/datasets/elderberry_5.jpg)
+![Elderberry](https://raw.githubusercontent.com/aghussb/plant_can_be_food_collection_datasets/master/elderberry/datasets/elderberry_5.jpg)
 
 ## Description
 
