@@ -16,4 +16,4 @@ Make README.md for a description of the plant you choose and don't forget to pro
 Format README.md like in folder sample there are pictures and descriptions.
 
 ## 3. Image Dataset
-Make folder **datasets** with the format name [name plant]_1,[name plant]_2,[name plant]_1,etc and a minimum number of images 10
+Make folder **datasets** with the format name [name plant]_1,[name plant]_2,[name plant]_1,etc and a min **10** images 
