@@ -1,6 +1,6 @@
 # Japanese Knotweed
 
-![Japanese Knotweed](https://raw.githubusercontent.com/aghussb/plant_can_be_food_collection_datasets/master/japanese knotweed/datasets/japanese knotweed_1.jpg)
+![Japanese Knotweed](https://raw.githubusercontent.com/aghussb/plant_can_be_food_collection_datasets/master/japanese%20knotweed/datasets/japanese knotweed_1.jpg)
 
 ## Description
 
