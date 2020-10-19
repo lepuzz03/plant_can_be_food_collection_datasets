@@ -1,6 +1,6 @@
 # Chicory
 
-![Chicory](https://raw.githubusercontent.com/lepuzz03/plant_can_be_food_collection_datasets/me/alfalfa/datasets/alfalfa_1.jpg)
+![Chicory](https://raw.githubusercontent.com/lepuzz03/plant_can_be_food_collection_datasets/me/chicory/datasets/chicory_1.jpg)
 
 ## Description
 
