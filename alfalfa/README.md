@@ -1,6 +1,6 @@
 # Alfalfa
 
-![Alfalfa](https://raw.githubusercontent.com/lepuzz03/plant_can_be_food_collection_datasets/me/asparagus/datasets/asparagus_1.jpg)
+![Alfalfa](https://raw.githubusercontent.com/lepuzz03/plant_can_be_food_collection_datasets/me/alfalfa/datasets/alfalfa_1.jpg)
 
 ## Description
 
