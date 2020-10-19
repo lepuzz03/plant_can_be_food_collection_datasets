@@ -1,6 +1,6 @@
 # Asparagus
 
-![Asparagus](https://github.com/hmk1337/plant_can_be_food_collection_datasets/blob/master/kale/datasets/kale_1.jpg)
+![Asparagus](https://raw.githubusercontent.com/lepuzz03/plant_can_be_food_collection_datasets/me/asparagus/datasets/asparagus_1.jpg)
 
 ## Description
 
